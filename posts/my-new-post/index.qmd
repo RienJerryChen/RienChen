@@ -1,0 +1,9 @@
+---
+title: "My new post"
+author: "Ryan Chen"
+date: "2022-09-13"
+categories: [new]
+image: "image.jpg"
+---
+
+This is a new post.
